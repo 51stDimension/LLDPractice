@@ -1,4 +1,4 @@
-package org.dev.parkingLot.models;
+package org.dev.parkinglot.models;
 
 public record Vehicle(String number, VehicleType vehicleType) {
 }

@@ -1,4 +1,4 @@
-package org.dev.parkingLot;
+package org.dev.parkinglot;
 
 public class Main {
     public static void main(String[] args) {

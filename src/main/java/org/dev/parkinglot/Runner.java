@@ -1,4 +1,4 @@
-package org.dev.parkingLot;
+package org.dev.parkinglot;
 
 public class Runner {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package org.dev.parkingLot;
+package org.dev.parkinglot;
 
 import lombok.Getter;
-import org.dev.parkingLot.models.Coordinate;
-import org.dev.parkingLot.models.EntryTerminal;
-import org.dev.parkingLot.models.VehicleType;
+import org.dev.parkinglot.models.Coordinate;
+import org.dev.parkinglot.models.EntryTerminal;
+import org.dev.parkinglot.models.VehicleType;
 
 //Parking spot for core logic and BaseParkingSpot for defining behaviour that will be/can be same across
 //different parking spots

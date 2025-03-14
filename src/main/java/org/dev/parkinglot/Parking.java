@@ -1,10 +1,10 @@
-package org.dev.parkingLot;
+package org.dev.parkinglot;
 
 import lombok.Getter;
-import org.dev.parkingLot.models.Coordinate;
-import org.dev.parkingLot.models.EntryTerminal;
-import org.dev.parkingLot.models.Vehicle;
-import org.dev.parkingLot.strategy.ParkingStrategy;
+import org.dev.parkinglot.models.Coordinate;
+import org.dev.parkinglot.models.EntryTerminal;
+import org.dev.parkinglot.models.Vehicle;
+import org.dev.parkinglot.strategy.ParkingStrategy;
 
 import java.util.*;
 

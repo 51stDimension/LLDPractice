@@ -1,4 +1,4 @@
-package org.dev.parkingLot;
+package org.dev.parkinglot;
 
 import java.util.List;
 
