@@ -1,7 +1,7 @@
-package org.dev;
+package org.dev.parkingLot;
 
-import org.dev.models.Coordinate;
-import org.dev.models.VehicleType;
+import org.dev.parkingLot.models.Coordinate;
+import org.dev.parkingLot.models.VehicleType;
 
 public class TwoWheelerParkingSpot extends BaseParkingSpot{
 

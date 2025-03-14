@@ -1,4 +1,4 @@
-package org.dev.models;
+package org.dev.parkingLot.models;
 
 public enum VehicleType {
     TWO_WHEELER,

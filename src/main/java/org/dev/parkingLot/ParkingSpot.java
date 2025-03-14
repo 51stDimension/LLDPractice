@@ -1,4 +1,4 @@
-package org.dev;
+package org.dev.parkingLot;
 
 public interface ParkingSpot {
 

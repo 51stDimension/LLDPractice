@@ -1,9 +1,9 @@
-package org.dev.strategy;
+package org.dev.parkingLot.strategy;
 
-import org.dev.BaseParkingSpot;
-import org.dev.Parking;
-import org.dev.models.EntryTerminal;
-import org.dev.models.Vehicle;
+import org.dev.parkingLot.BaseParkingSpot;
+import org.dev.parkingLot.Parking;
+import org.dev.parkingLot.models.EntryTerminal;
+import org.dev.parkingLot.models.Vehicle;
 
 import java.util.Optional;
 import java.util.TreeSet;

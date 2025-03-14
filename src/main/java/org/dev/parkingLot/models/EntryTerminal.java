@@ -1,4 +1,4 @@
-package org.dev.models;
+package org.dev.parkingLot.models;
 
 import lombok.Builder;
 import lombok.Getter;
