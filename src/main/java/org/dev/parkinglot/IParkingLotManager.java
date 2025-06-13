@@ -7,7 +7,7 @@ public interface IParkingLotManager {
 
     ParkingTicket assignParking(ParkingRequest parkingRequest, String parkingEntranceId);
 
-    String addNewParkingFloor();
+    void addNewParkingFloor();
 
     void handleDriverExit(ParkingTicket parkingTicket);
 }

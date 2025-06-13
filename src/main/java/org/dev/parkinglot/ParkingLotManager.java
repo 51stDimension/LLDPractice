@@ -45,7 +45,7 @@ public class ParkingLotManager implements ParkingLotObserver, IParkingLotManager
     }
 
     @Override
-    public String addNewParkingFloor(){
+    public void addNewParkingFloor(){
         floors = floors + 1;
         parkingLots.add(new ParkingLot(parkingLotDimensions, parkingEntrances.values().stream().toList()));
     }
