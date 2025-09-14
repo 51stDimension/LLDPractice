@@ -1,10 +1,11 @@
 package org.dev.parkinglot.request;
 
-import lombok.Data;
+import lombok.*;
 import org.dev.parkinglot.models.VehicleType;
 
-@Data
+@Value
+@Builder(toBuilder = true)
 public class ParkingRequest {
-    private VehicleType vehicleType;
-    private String vehicleNumber;
+    VehicleType vehicleType;
+    String vehicleNumber;
 }
